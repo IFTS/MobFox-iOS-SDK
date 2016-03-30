@@ -1,5 +1,5 @@
-This is the Old MobFox SDK and is no longer maintained.
-Please refer here: https://github.com/mobfox/MobFox-iOS-SDK-Core-Lib for the new version
+# This is the Old MobFox SDK and is no longer maintained.
+### Please refer here: https://github.com/mobfox/MobFox-iOS-SDK-Core-Lib for the new version
 
 MobFox iOS SDK
 =====================
